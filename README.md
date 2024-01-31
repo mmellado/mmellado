@@ -29,9 +29,9 @@ _____ ______   ________  ________  ________  ________  ________
                                                                       
 ```     
 
-I enjoy working with JS/TS for both frontend and backend stuff. I like to focus on good UX and Accessibility. I also like animating stuff on the web. 
+I enjoy working with JS/TS for both frontend and backend stuff. I like to focus on good UX and Accessibility.
 
-Right now, I'm leading development at AKQA Amsterdam. Feel free to reach out if you'd like to work together!
+I currently work as a Tech Director for Resn, in Amsterdam. Feel free to [reach out](https://linkedin.com/in/mellado) if you'd like to work together!
 
 
 
